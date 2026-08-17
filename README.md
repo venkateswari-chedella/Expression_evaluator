@@ -1,0 +1,1 @@
+A Python-based expression evaluator that parses and evaluates mathematical expressions without using eval(). Supports arithmetic operators, precedence, parentheses, mathematical functions, constants, variables, user-defined functions, percentages, history, and error handling
